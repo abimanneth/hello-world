@@ -1,0 +1,2 @@
+#ALL .log file are skipped
+*.log
